@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finsfins
-- 👀 I’m interested in Crypto, Data Science, Data Engineering, Automated Asset Management, Fintech, 
+- 👀 I’m interested in Crypto, Data Science, Data Engineering, Automated Asset Management and Fintech 
 - 🌱 I’m currently learning Python, Q, VBA and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me finbarrkiely101@gmail.com
