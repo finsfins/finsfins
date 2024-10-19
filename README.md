@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @finsfins
-- 👀 I’m interested in Data Science, Engineering and Analysis and also Web development.
+- 👀 I’m interested in Data Science, Engineering and Web development.
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me finbarrkiely101@gmail.com
 
 <!---
